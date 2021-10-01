@@ -61,7 +61,7 @@ background-image: url(https://previews.123rf.com/images/ashasha/ashasha1908/asha
 {
 	padding: 10px;
     width:80%;
-    background: rgba(255,255,255,0.8);
+    background: rgb(124, 251, 255);
     border-radius: 15px;
 }
 
@@ -72,7 +72,8 @@ background-image: url(https://previews.123rf.com/images/ashasha/ashasha1908/asha
 
 .input_div label
 {
-	color:white;font-size: 20px;
+	color: rgb(255, 149, 202, 0.993);
+	font-size: 20px;
 }
 
 
@@ -95,7 +96,7 @@ background-image: url(https://previews.123rf.com/images/ashasha/ashasha1908/asha
 }
 .color_white
 {
-	color: white
+	color: rgb(255, 149, 202, 0.993)
 }
 
 .user_tick
